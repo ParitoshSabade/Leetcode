@@ -13,8 +13,7 @@ class Codec:
                 
                 
             encoded_str+=","
-        print(len(encoded_str) )
-        print(encoded_str)
+        
         return encoded_str
         
 
