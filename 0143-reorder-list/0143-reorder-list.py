@@ -8,20 +8,29 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        stck = []
-        end_pointer = head
-        while end_pointer:
-            stck.append(end_pointer)
-            end_pointer = end_pointer.next
+        slow,fast = head,head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
             
-        end_pointer = stck.pop()
+        prev, curr = None, slow
         
-        while head.next != end_pointer and head != end_pointer:
-            print(end_pointer.val)
-            next_to_head = head.next
-            end_pointer.next = head.next
-            head.next = end_pointer
+        while curr:
+            tmp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = tmp
             
-            end_pointer = stck.pop()
-            end_pointer.next = None
-            head = next_to_head
+        first,second = head, prev
+        
+        while second.next:
+            tmp = first.next
+            first.next = second
+            first = tmp
+            
+            tmp = second.next
+            second.next = first
+            second = tmp
+            
+        
+        
