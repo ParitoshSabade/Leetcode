@@ -3,28 +3,24 @@ class Solution:
         if digits == "" or digits == "1":
             return []
         phone_map = {"2": ["a","b","c"],"3": ["d","e","f"],"4": ["g","h","i"],"5": ["j","k","l"],"6": ["m","n","o"],"7": ["p","q","r",'s'],"8": ["t","u","v"],"9": ["w","x","y","z"]}
-        digits_list = list(digits)
-        temp_list = phone_map[digits_list[0]]
+        
+        digitsList = list(digits)
+        tmp1 = phone_map[digitsList[0]]
         
         
-        for i in range(1,len(digits_list)):
-            if digits_list[i] == 1:
-                continue
-            temp_list2 = []
-            for j in temp_list:
-                for k in phone_map[digits_list[i]]:
+        for i in range(1,len(digitsList)):
+            tmp2 = []
+            for t in tmp1:
+                for k in phone_map[digitsList[i]]:
+                    tmp2.append(t+k)
                     
-                    temp_list2.append(j+k)
-                
-                
-            temp_list = temp_list2
+            tmp1 = tmp2
             
             
-        return temp_list
-            
+        return tmp1
             
         
-            
-                
+        
+        
         
         
