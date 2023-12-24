@@ -1,27 +1,14 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp = {}
-        ans = 0
-        def DFS(rem):
-            ans = float('inf')
-            if rem < 0:
-                return -1
-            elif rem == 0:
-                return 0
-            elif rem in dp:
-                return dp[rem]
-            
-            for coin in coins:
-                cnt = DFS(rem - coin)
-                if cnt != -1:
-                    ans = min(ans,cnt+1)
-            
-            if ans != float('inf'):
-                dp[rem] = ans
-                return ans
-            else:
-                dp[rem] = -1
-                return -1
-            
-            
-        return DFS(amount)
+        dp = [float('inf')]*(amount+1)
+        dp[0] = 0
+        
+        for coin in coins:
+            for i in range(coin,amount+1):
+                dp[i] = min(dp[i], dp[i-coin]+1)
+                
+
+        if dp[amount] != float('inf'):
+            return dp[amount]
+        else:
+            return -1
