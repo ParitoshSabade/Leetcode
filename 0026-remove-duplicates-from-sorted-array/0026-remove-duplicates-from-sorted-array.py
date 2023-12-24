@@ -8,6 +8,6 @@ class Solution:
                 cnt+=1
             
             op1 = nums[i]
-        print(cnt)    
+        
         return cnt
             
