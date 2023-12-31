@@ -7,44 +7,31 @@
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
         
-
-        
-        
-        
-        key = 0
-        OrderLeft,OrderRight = "",""
-        order = ""
-        def DFS(node):
-            nonlocal order 
-            if node:
-                
-                order += str(node.val)
-                
-                if key == 0:
-                    DFS(node.left)
-                    DFS(node.right)
-                else:
-                    DFS(node.right)
-                    DFS(node.left)
-            else:
-                order+="N"
-                    
+        def predfs(node,trace):
+            if node == None:
+                trace+="N"
+                return trace
+            trace+=str(node.val)
+            trace = predfs(node.left,trace)
+            trace = predfs(node.right,trace)
+            return trace
+            
+        def postdfs(node,trace):
+            if node == None:
+                trace+="N"
+                return trace
+            trace+=str(node.val)
+            trace = postdfs(node.right,trace)
+            trace = postdfs(node.left,trace)
+            return trace
             
             
-        DFS(root.left)
+        pre = predfs(root.left,"")
+        post = postdfs(root.right,"")
         
-        OrderLeft = order
-        order = ""
-        key = 1
-        DFS(root.right)
-        OrderRight = order
-        
-        if OrderLeft == OrderRight:
+        if pre == post:
             return True
         else:
             return False
-        
-        
-            
             
             
