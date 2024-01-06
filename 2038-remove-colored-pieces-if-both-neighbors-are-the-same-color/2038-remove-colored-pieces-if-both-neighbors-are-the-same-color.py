@@ -14,9 +14,14 @@ class Solution:
                     
             if countB > 2:
                     totalCountB+=countB - 2
+                    countB = 2
+                    
                     
             if countA > 2:
                     totalCountA+=countA - 2
+                    countA = 2
+                    
+                    
         
         if totalCountA > totalCountB:
             return True
