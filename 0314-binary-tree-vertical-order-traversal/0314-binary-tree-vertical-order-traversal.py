@@ -22,8 +22,7 @@ class Solution:
             if node.right:
                 q.append((node.right,col+1))
                 
-        answer = sorted(answer,key = lambda x:x[1])
-        #print(answer)
+        print(answer)
         for val,col in answer:
             if col in answer2:
                 answer2[col].append(val)     
