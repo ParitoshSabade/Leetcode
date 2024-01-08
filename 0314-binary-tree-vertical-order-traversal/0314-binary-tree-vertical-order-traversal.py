@@ -8,11 +8,11 @@ class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if root == None:
             return []      
-            
+    
         q = []
         q.append((root,0))
-        
         answer2 = {}
+        
         while q:
             node,col = q.pop(0)
             if col in answer2:
@@ -24,7 +24,6 @@ class Solution:
                 q.append((node.left,col-1))
             if node.right:
                 q.append((node.right,col+1))
-                
                 
         return [values for key, values in sorted(answer2.items())]
     
