@@ -30,19 +30,18 @@ class Solution:
         cnt = -1
         
         while queue:
-            # print(cnt)
-            # print(f"queue: {queue}")
+            
             for i in range(len(queue)):
                 nodeVal = queue.popleft()
                 visited.add(nodeVal)
-                # flag1 = False
+                
                 for n in nbrMap[nodeVal]:
                     if n not in visited:
                         queue.append(n)
-                        # flag1 = True
-                # if flag1 == True:
+                        
+                
             cnt+=1
-                # print(f"visited: {visited}")
+                
         return cnt
             
             
