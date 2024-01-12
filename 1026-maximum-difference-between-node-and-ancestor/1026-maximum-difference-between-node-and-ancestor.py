@@ -10,12 +10,10 @@ class Solution:
         maxValue = float('-inf')
         def DFS(node,parent):
             if parent:
-                if parent.val in valueMap:
-                    valueMap[node.val] = valueMap[parent.val]+[parent.val]
-                else:
-                    valueMap[node.val] = [parent.val]
+                valueMap[node.val] = (min(valueMap[parent.val][0],parent.val),max(valueMap[parent.val][1],parent.val))
+                
             else:
-                valueMap[node.val] = []
+                valueMap[node.val] = (float('inf'),float('-inf'))
                 
             if node.left:
                 DFS(node.left,node)
@@ -25,11 +23,10 @@ class Solution:
                 
         
         DFS(root,None)
-        
-        for key in valueMap:
-            for num in valueMap[key]:
-                maxValue = max(maxValue,abs(key-num))
         #print(valueMap)
+        for key in valueMap:
+            if key!=root.val:
+                maxValue = max(maxValue,abs(valueMap[key][0]-key),abs(valueMap[key][1]-key))
         return maxValue
             
             
