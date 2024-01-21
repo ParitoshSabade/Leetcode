@@ -19,7 +19,7 @@ class Solution:
         for i in range(l):
             result[i] = (result[PreviousMin[i]] if PreviousMin[i]!=-1 else 0) + (i-PreviousMin[i])*arr[i]
         
-        print(result)
+       
         return sum(result)%MOD
         
             
