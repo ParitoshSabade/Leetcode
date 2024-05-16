@@ -11,9 +11,7 @@ class Solution:
         sorted_chrs = sorted(chr_count, key=lambda k: chr_count[k], reverse=True)
         
         for i,ch in enumerate(sorted_chrs):
-            if i%9 == 0:
-                p+=1
-            chr_map[ch] = p
+            chr_map[ch] = i // 9 + 1
             
         for ch in s:
             answer += chr_map[ch]
