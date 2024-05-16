@@ -1,21 +1,22 @@
 
 class Solution:
     def minimumKeypresses(self, s: str) -> int:
-        chr_count = defaultdict(int)
-        chr_map = defaultdict(int)
+        chr_count = Counter(s)
+        
+        chr_heap = [(-count, ch) for ch, count in chr_count.items()]
+        heapq.heapify(chr_heap)
+        
         answer = 0
         p = 0
-        for ch in s:
-            chr_count[ch] += 1
-            
-        sorted_chrs = sorted(chr_count, key=lambda k: chr_count[k], reverse=True)
         
-        for i,ch in enumerate(sorted_chrs):
-            chr_map[ch] = i // 9 + 1
-            
-        for ch in s:
-            answer += chr_map[ch]
-            
+        while chr_heap:
+            p += 1
+            for _ in range(9):
+                if not chr_heap:
+                    break
+                count, ch = heapq.heappop(chr_heap)
+                answer += p * abs(count)
+        
         return answer
         
         
