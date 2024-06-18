@@ -7,18 +7,23 @@
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         
-        answer = []
         if not root:
-            return answer
-        def ReversePreOrder(node,level):
-            if len(answer) <= level:
-                answer.append(node.val)
-            if node.right != None:
-                ReversePreOrder(node.right,level+1)
-            if node.left != None:
-                ReversePreOrder(node.left,level+1)
+            return []
         
-        ReversePreOrder(root,0)
+        visited = []
+        visited.append(root)
+        answer = []
+        while visited:
+            level = []
+
+            for _ in range(len(visited)):
+                node = visited.pop(0)
+                level.append(node.val)
+                if node.left:
+                    visited.append(node.left)
+                if node.right:
+                    visited.append(node.right)
+            answer.append(level.pop())
         return answer
             
         
