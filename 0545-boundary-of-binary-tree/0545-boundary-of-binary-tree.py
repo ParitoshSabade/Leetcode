@@ -53,10 +53,10 @@ class Solution:
        
         
         
-        rightBoundary = []
+        
         if root.right:
             findRightBoundary(root.right)
-        answer.extend(reversed(rightBoundary))
+        
         
         return answer
 
