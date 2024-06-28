@@ -38,7 +38,7 @@ class Solution:
             if not node:
                 return
             if not node.left and not node.right:
-                leaves.append(node.val)
+                answer.append(node.val)
                 return
             findLeaves(node.left)
             findLeaves(node.right)
@@ -48,9 +48,9 @@ class Solution:
             findLeftBoundary(root.left)
         
         
-        leaves = []
+        
         findLeaves(root)
-        answer.extend(leaves)
+       
         
         
         rightBoundary = []
