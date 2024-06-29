@@ -35,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
