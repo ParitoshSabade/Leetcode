@@ -39,8 +39,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
+## Greedy
+|  |
+| ------- |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
+## Sorting
+|  |
+| ------- |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 <!---LeetCode Topics End-->
