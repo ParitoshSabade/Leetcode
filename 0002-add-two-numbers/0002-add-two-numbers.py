@@ -6,36 +6,39 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         
-        num1 = 0
-        num2 = 0
+        num1, num2 = 0, 0
         multiplier = 1
+        
         while l1:
-            num1 += l1.val*multiplier
-            multiplier = multiplier * 10
+            num1 += l1.val * multiplier
+            multiplier *= 10
             l1 = l1.next
+        
         multiplier = 1
+        
         while l2:
-            num2 += l2.val*multiplier
-            multiplier = multiplier * 10
+            num2 += l2.val * multiplier
+            multiplier *= 10
             l2 = l2.next
-        n = num1+num2
-        print(n)
-        prev = head = None
-        numb = n
-        if n == 0:
+        
+        total = num1 + num2
+        
+        if total == 0:
             return ListNode(0)
-        while (n):
-            v = n % 10
-            node = ListNode(v)
-            if n==numb:
+        
+        head = None
+        prev = None
+        
+        while total:
+            digit = total % 10
+            node = ListNode(digit)
+            if not head:
                 head = node
             if prev:
                 prev.next = node
-            n = n//10
             prev = node
-        #node.next = None
-            
-
+            total //= 10
+        
         return head
 
 
