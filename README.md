@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 ## Array
 |  |
 | ------- |
@@ -73,4 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
+| [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+## Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
