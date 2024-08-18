@@ -2,11 +2,11 @@ class Twitter:
 
     def __init__(self):
         self.count = 0
-        self.twitmap = defaultdict(list)
+        self.twitmap = defaultdict(set)
         self.followmap = defaultdict(set)
 
     def postTweet(self, userId: int, tweetId: int) -> None:
-        self.twitmap[userId].append((self.count,tweetId))
+        self.twitmap[userId].add((self.count,tweetId))
         self.count-=1
 
     def getNewsFeed(self, userId: int) -> List[int]:
