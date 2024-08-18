@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
+| [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
 | [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -96,4 +98,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
