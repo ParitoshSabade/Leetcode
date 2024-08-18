@@ -84,4 +84,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
