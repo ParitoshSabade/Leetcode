@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ParitoshSabade/Leetcode/tree/master/0022-generate-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ParitoshSabade/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ParitoshSabade/Leetcode/tree/master/0022-generate-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
 ## Memoization
 |  |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ParitoshSabade/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
