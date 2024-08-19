@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
@@ -54,11 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ParitoshSabade/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
