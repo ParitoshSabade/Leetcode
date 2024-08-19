@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ParitoshSabade/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParitoshSabade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -137,8 +138,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParitoshSabade/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ParitoshSabade/Leetcode/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ParitoshSabade/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ParitoshSabade/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
