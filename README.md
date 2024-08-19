@@ -41,12 +41,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParitoshSabade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParitoshSabade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParitoshSabade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/ParitoshSabade/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
