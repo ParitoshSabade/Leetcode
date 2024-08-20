@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
 | [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ParitoshSabade/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ParitoshSabade/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Counting
 |  |
 | ------- |
