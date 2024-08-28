@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ParitoshSabade/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Binary Search
 |  |
@@ -154,4 +156,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ParitoshSabade/Leetcode/tree/master/0078-subsets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
