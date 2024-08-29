@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/ParitoshSabade/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParitoshSabade/Leetcode/tree/master/0022-generate-parentheses) |
 | [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/ParitoshSabade/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Memoization
 |  |
 | ------- |
