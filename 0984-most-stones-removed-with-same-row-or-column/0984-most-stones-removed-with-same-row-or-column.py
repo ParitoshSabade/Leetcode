@@ -15,7 +15,6 @@ class Solution:
                 q.append((st[0],st[1]))
                 while q:
                     stone = q.popleft()
-                    print(f"stone: {stone}")
                     visited.add(stone)
                     for s in rowMap[stone[0]]:
                         if s not in visited:
