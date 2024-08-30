@@ -1,19 +1,11 @@
 class Solution:
     def minCost(self, costs: List[List[int]]) -> int:
-        minCost = float('inf')
-        @cache
-        def jump(i,p,currCost):
-            nonlocal minCost
-            if i >= len(costs):
-                minCost = min(minCost,currCost)
-                return
-            for ind,paint in enumerate(costs[i]):
-                if ind == p:
-                    continue
-                jump(i+1,ind,currCost+paint)
-        jump(0,0,0)
-        jump(0,1,0)
-        jump(0,2,0)
-        return minCost
+        n = len(costs)
+        if(n==0) : return 0
+        for i in range(1,n):
+            costs[i][0] += min(costs[i-1][1],costs[i-1][2])
+            costs[i][1] += min(costs[i-1][0],costs[i-1][2])            
+            costs[i][2] += min(costs[i-1][1],costs[i-1][0])            
+        return min(costs[-1])
         
                 
