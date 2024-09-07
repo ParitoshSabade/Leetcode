@@ -28,17 +28,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ParitoshSabade/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0545-boundary-of-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/ParitoshSabade/Leetcode/tree/master/0930-all-possible-full-binary-trees) |
+| [1484-linked-list-in-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
 | [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
+| [1484-linked-list-in-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ParitoshSabade/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -169,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
