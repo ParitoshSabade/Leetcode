@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ParitoshSabade/Leetcode/tree/master/0198-house-robber) |
 | [0256-paint-house](https://github.com/ParitoshSabade/Leetcode/tree/master/0256-paint-house) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0859-design-circular-deque](https://github.com/ParitoshSabade/Leetcode/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ParitoshSabade/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
 | [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
+| [0859-design-circular-deque](https://github.com/ParitoshSabade/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/ParitoshSabade/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ParitoshSabade/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ParitoshSabade/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/ParitoshSabade/Leetcode/tree/master/0355-design-twitter) |
+| [0859-design-circular-deque](https://github.com/ParitoshSabade/Leetcode/tree/master/0859-design-circular-deque) |
 | [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -195,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ParitoshSabade/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ParitoshSabade/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
