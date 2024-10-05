@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ParitoshSabade/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ParitoshSabade/Leetcode/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ParitoshSabade/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1119-robot-bounded-in-circle](https://github.com/ParitoshSabade/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1894-merge-strings-alternately](https://github.com/ParitoshSabade/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ParitoshSabade/Leetcode/tree/master/0009-palindrome-number) |
+| [1119-robot-bounded-in-circle](https://github.com/ParitoshSabade/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ParitoshSabade/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1119-robot-bounded-in-circle](https://github.com/ParitoshSabade/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1708-design-parking-system](https://github.com/ParitoshSabade/Leetcode/tree/master/1708-design-parking-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ParitoshSabade/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ParitoshSabade/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
