@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ParitoshSabade/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ParitoshSabade/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 ## Binary Search
@@ -66,12 +67,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ParitoshSabade/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Two Pointers
 |  |
