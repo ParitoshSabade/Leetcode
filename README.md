@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ParitoshSabade/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2035-count-sub-islands](https://github.com/ParitoshSabade/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ParitoshSabade/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/ParitoshSabade/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ParitoshSabade/Leetcode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/ParitoshSabade/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/ParitoshSabade/Leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/ParitoshSabade/Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 ## Sorting
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ParitoshSabade/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ParitoshSabade/Leetcode/tree/master/0009-palindrome-number) |
 | [1119-robot-bounded-in-circle](https://github.com/ParitoshSabade/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/ParitoshSabade/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ParitoshSabade/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
